@@ -87,6 +87,10 @@ a:focus{
     background-color: orange;
 }
 
+.A:focus{
+    padding: 4px;
+    background-color: orange;
+}
 
 
 
